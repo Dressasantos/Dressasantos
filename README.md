@@ -1,6 +1,8 @@
 Olá! Eu sou a Andressa Santos 👋
 
-- 🌱 Estou estudando JavaScript, Python, Java, HTML, Lógica de Programação, Algoritmos e Banco de Dados.  
+- 🌱 Estou estudando JavaScript, Python, Java, HTML, Lógica de Programação, Algoritmos e Banco de Dados.
+- 🔗 Conhecimentos em desenvolvimento de API REST
+  💻 Interesse em Back-End e integração entre sistemas
 - 📫 Me envie um e-mail: andcristinesantos@gmail.com  
 - 😄 Pronomes: Ela/Dela  
 
