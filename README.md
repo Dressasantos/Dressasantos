@@ -1,5 +1,6 @@
 Olá! Eu sou a Andressa Santos 👋
 
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUCPR
 - 🌱 Estou estudando JavaScript, Python, Java, HTML, Lógica de Programação, Algoritmos e Banco de Dados.
 - 🔗 Conhecimentos em desenvolvimento de API REST
   💻 Interesse em Back-End e integração entre sistemas
