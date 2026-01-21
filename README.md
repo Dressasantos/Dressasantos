@@ -1,29 +1,12 @@
 Olá! Eu sou a Andressa Santos 👋
+Desenvolvedora Júnior com conhecimentos em front-end e back-end, utilizando tecnologias modernas para web.
 
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUCPR
-- 🌱 Estou estudando React, JavaScript, Python, Java, HTML, Lógica de Programação, Algoritmos e Banco de Dados.
-- 🔗 Conhecimentos em desenvolvimento de API REST
-  💻 Interesse em Back-End e integração entre sistemas
-- 📫 Me envie um e-mail: andcristinesantos@gmail.com  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela PUCPR
+- 🌱 Estudando React, JavaScript, Python, Java, HTML
+- 🔗 Desenvolvimento de API REST
+- 💻 Interesse em Back-End
+- 📫 Email: andcristinesantos@gmail.com  
 - 😄 Pronomes: Ela/Dela  
 
-<div align="center">
-  <a href="https://github.com/Andressasantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andressasantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressasantos&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-</div>
-Tecnologias que utilizo
-
+🚀 Tecnologias que utilizo
 <img src="https://skillicons.dev/icons?i=js,react,python,java,html,css,nodejs,git,github" />
-
-
-
